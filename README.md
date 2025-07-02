@@ -17,6 +17,16 @@ Repositório de preparação para a certificação AWS Developer.
 ![Simultaneidade no AWS Lambda](src/img/20250630223929.png)
 - Processamento de erros no AWS Lambda
 ![Processamento de erros no AWS Lambda](src/img/20250630224852.png)
+- Microsserviços
+![Microsserviços](src/img/20250701190039.png)
+
+### Amazon API Gateway
+- Visão geral do Amazon API Gateway
+![Visão geral do Amazon API Gateway](src/img/20250701182730.png)
+- Estágios do Amazon API Gateway
+![Estágios do Amazon API Gateway](src/img/20250701183710.png)
+- Visão geral de estratégias de versionamento no Amazon API Gateway
+![Visão geral de estratégias de versionamento no Amazon API Gateway](src/img/20250701184738.png)
 
 ### Amazon CloudWatch
 - Visão geral do Amazon CloudWatch
